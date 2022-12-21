@@ -1,0 +1,19 @@
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.flex-container div {
+    border: red solid;
+    height: 200px;
+    width: 200px;
+    background-color: tan;
+    flex: 1 1 auto;
+}
+
+
+
+
+
+
